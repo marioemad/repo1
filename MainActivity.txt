@@ -1,3 +1,4 @@
+//java function for android calculator
 ﻿public class MainActivity extends Activity implements OnClickListener {
 
   EditText etNum1;
